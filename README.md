@@ -1,4 +1,4 @@
-# ⚡ FPGA-Based Pulse Detector & Frequency Estimator  
+# ⚡ FPGA-Based Pulse Detection & Frequency Estimation  
 # 🎯 آشکارساز پالس و تخمین فرکانس مبتنی بر FPGA
 
 ## 📘 خلاصه پروژه  
